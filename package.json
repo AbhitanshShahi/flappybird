@@ -1,5 +1,6 @@
 {
-  "name": "flappy_bird",
+  "name": "flappybird",
+  "description": "A classic Flappy Bird-style arcade game built with Next.js, TypeScript, and HTML Canvas.",
   "version": "0.1.0",
   "private": true,
   "scripts": {
